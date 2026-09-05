@@ -1,102 +1,109 @@
-# 👋 Hi, I'm Tushal Kumar
+<h1 align="center">Hi there, I'm Tushal Kumar Dawani 👋</h1>
 
-### 🎓 Computer Science Student | 💻 Software Developer | 🤖 Machine Learning Enthusiast
+<h3 align="center">AI & ML Enthusiast | Software Developer | Data Analytics 📊</h3>
 
-Welcome to my GitHub profile! I'm a Computer Science student passionate about building software, exploring Machine Learning, and solving real-world problems through technology.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E86DE&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+Sukkur+IBA+University;AI+%26+ML+Intern+%40+SafeX+Solutions;Ex+IT+Intern+%40+Faysal+Bank+Limited;Python+%7C+Java+%7C+C%2B%2B+%7C+Scikit-Learn+%7C+PyTorch;Google+Data+Analytics+Certified" alt="Typing SVG" />
+</p>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Computer Science student
-- 💻 Interested in Software Development and Machine Learning
-- 🐍 Currently working with Python and exploring ML
-- ☕ Experienced with Java and JavaFX
-- ⚡ Exploring C, C++, JavaScript, and SQL
-- 🧠 Interested in Artificial Intelligence and problem solving
-- 🌐 Check out my portfolio: [tushalkumarr.github.io](https://tushalkumarr.github.io/)
+<p align="center">
+  <a href="https://tushalkumarr.github.io/"><img src="https://img.shields.io/badge/Portfolio-2E86DE?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tushal-kumardawani-70bb4236a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tushalkumardawani.official111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
+### 👨‍💻 About Me
 
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-
-### Libraries & Frameworks
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Databases & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🎓 B.S. Computer Science student at **Sukkur IBA University** (2024 – 2028)
+- 🤖 Currently an **AI & ML Intern** at **SafeX Solutions**, working on data preprocessing, model building, and evaluation
+- 🏦 Previously an **IT Intern** at **Faysal Bank Limited**, where I analyzed 1,000+ banking records and worked inside a live core banking system
+- 📊 Google Data Analytics Professional Certificate holder, turning raw data into actionable insights with Python & SQL
+- 🏆 Recipient of the **Prime Minister Laptop Award** (PM Youth Scheme 2025–26) for academic excellence
+- 🧠 Building predictive models and goal-based agents using **PyTorch**, applying statistics & probability from coursework
+- ☕ Also ship end-to-end **Java desktop apps** (Swing/JavaFX) — quiz systems, to-do managers, and more
+- 🌱 Actively learning and open to collaborating on data, ML, and analytics projects
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-### 🌐 Personal Portfolio
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-My personal portfolio website showcasing my skills, projects, education, and experience.
+**Data Science & ML**
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
 
-🔗 [Visit Portfolio](https://tushalkumarr.github.io/)
-
-### ☕ Java Quiz Application
-
-A Java-based quiz application designed to provide an interactive quiz experience.
-
-### 🏨 Hotel Management System
-
-A software project focused on managing hotel-related operations and information.
-
-### 🤖 AI & Machine Learning
-
-Currently exploring Machine Learning, Artificial Intelligence, data analysis, and intelligent applications using Python.
+**Databases & Tools**
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaFX-orange?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
 ---
 
-## 📚 Currently Learning
+### 📈 GitHub Stats
 
-- 🤖 Machine Learning
-- 🧠 Artificial Intelligence
-- 🐍 Advanced Python
-- 📊 Data Analysis
-- 🔧 Building real-world projects
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TushalKumarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TushalKumarr&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TushalKumarr&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TushalKumarr&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
 
 ---
 
-## 🎯 2026 Goals
+### 🚀 Featured Projects
 
-- 🚀 Build more real-world software projects
-- 🤖 Develop practical Machine Learning projects
+| Project | Description |
+|---|---|
+| 🌐 [**Personal Portfolio**](https://tushalkumarr.github.io/) | My portfolio site showcasing skills, projects, education & experience |
+| ☕ **Java Quiz Application** | Interactive GUI quiz system built with Java Swing/JavaFX |
+| 🏨 **Hotel Management System** | Desktop application for managing hotel operations, OOP-based |
+| 🤖 **AI & ML Experiments** | Predictive models & goal-based agents built with Python, Scikit-Learn & PyTorch |
+
+---
+
+### 🎯 2026 Goals
+
+- 🚀 Ship more real-world software & ML projects
 - 📚 Strengthen Data Structures & Algorithms
-- 💻 Improve software development skills
-- 🌐 Build a strong developer portfolio
-- 🤝 Contribute to open-source projects
+- 🤝 Contribute to open-source
+- 🌐 Grow my developer portfolio and network with the data/ML community
 
 ---
 
-## 🌐 Connect With Me
+### 📫 Let's Connect
 
-🌐 **Portfolio:** [tushalkumarr.github.io](https://tushalkumarr.github.io/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/tushal-kumardawani-70bb4236a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://tushalkumarr.github.io/"><img src="https://img.shields.io/badge/Portfolio-2E86DE?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="mailto:tushalkumardawani.official111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-💻 **GitHub:** [@TushalKumarr](https://github.com/TushalKumarr)
-
----
-
-⭐ Thanks for visiting my profile!
-
-**Feel free to explore my repositories and follow my journey as I learn, build, and grow.**
+<p align="center"><i>⭐ Thanks for visiting — feel free to explore my repos and follow my journey!</i></p>
