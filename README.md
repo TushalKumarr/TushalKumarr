@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Tushal Kumar Dawani 👋</h1>
+<h1 align="center">Hi there, I'm Tushal Kumar 👋</h1>
 
 <h3 align="center">AI & ML Enthusiast | Software Developer | Data Analytics 📊</h3>
 
