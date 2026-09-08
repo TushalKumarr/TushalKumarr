@@ -89,15 +89,6 @@
 
 ---
 
-### 🎯 2026 Goals
-
-- 🚀 Ship more real-world software & ML projects
-- 📚 Strengthen Data Structures & Algorithms
-- 🤝 Contribute to open-source
-- 🌐 Grow my developer portfolio and network with the data/ML community
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
