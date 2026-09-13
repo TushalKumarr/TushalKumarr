@@ -81,4 +81,4 @@
   <a href="mailto:tushalkumardawani.official111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>⭐ Thanks for visiting — feel free to explore my repos and follow my journey!</i></p>
+<p align="center"><i>⭐ Thanks for visiting — feel free to explore my repos and follow my journey!</i></p> 
